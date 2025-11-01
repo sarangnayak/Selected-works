@@ -45,3 +45,12 @@ Selected-Works/
 └── preview.png      # Screenshot for README
 
 ```
+---
+
+## 🚀 Getting Started  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/sarangnayak/Selected-Works.git
+   cd Selected-Works
+   ```
+   
