@@ -53,4 +53,6 @@ Selected-Works/
    git clone https://github.com/sarangnayak/Selected-Works.git
    cd Selected-Works
    ```
-   
+   2.	Open index.html in your browser (or host on GitHub Pages)
+	3.	Replace or add images in the assets/ folder as needed
+	4.	Customize styling (CSS) or interactivity (script.js) if needed
