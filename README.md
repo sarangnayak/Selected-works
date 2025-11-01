@@ -74,6 +74,21 @@ Contributions are welcome!
 	•	Make your changes and test thoroughly
 	•	Open a Pull Request
 ---
+📜 License
 
+Distributed under the MIT License.
+See the LICENSE￼ file for details.
 
+⸻
 
+👤 Author
+
+Sarang Nayak
+🔗 GitHub￼
+🌐 Portfolio￼
+---
+
+⭐ If you enjoy exploring this gallery, please give the repo a star!
+---
+
+If you like, I can **generate a screenshot mockup** of your gallery (desktop + mobile) so you can save it into `image1.png` and have a polished preview in your README. Would you like me to do that?
