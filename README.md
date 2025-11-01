@@ -14,7 +14,7 @@
 ---
 
 ## 🖼️ Preview  
-![Selected Works Preview](./assets/preview.png)  
+![Selected Works Preview](./image1.png)  
 
 ---
 
