@@ -63,6 +63,17 @@ Selected-Works/
 	•	Add lazy-loading for performance when many images exist
 	•	Add hover animations or entrance effects using CSS or a JS library
 	•	Add captions or metadata (date, camera info) for each image
+	
 ---
+
+🤝 Contributing
+
+Contributions are welcome!
+	•	Fork the repo
+	•	Create a new branch (git checkout -b feature/YourFeature)
+	•	Make your changes and test thoroughly
+	•	Open a Pull Request
+---
+
 
 
