@@ -53,6 +53,16 @@ Selected-Works/
    git clone https://github.com/sarangnayak/Selected-Works.git
    cd Selected-Works
    ```
-   2.	Open index.html in your browser (or host on GitHub Pages)
-	3.	Replace or add images in the assets/ folder as needed
-	4.	Customize styling (CSS) or interactivity (script.js) if needed
+   2. Open index.html in your browser (or host on GitHub Pages)
+   3. Replace or add images in the assets/ folder as needed
+   4. Customize styling (CSS) or interactivity (script.js) if needed
+ --- 
+   💡 Customization Ideas
+	•	Add filter buttons so users can toggle between categories
+	•	Implement a lightbox or modal to view larger versions of images
+	•	Add lazy-loading for performance when many images exist
+	•	Add hover animations or entrance effects using CSS or a JS library
+	•	Add captions or metadata (date, camera info) for each image
+---
+
+
