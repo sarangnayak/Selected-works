@@ -34,3 +34,14 @@ It provides a clean, grid-based layout that allows the imagery to speak for itse
 ---
 
 ## 📂 Folder Structure  
+
+```
+Selected-Works/
+│
+├── index.html           # Main gallery page
+├── style.css            # Styling & layout
+├── script.js            # (Optional) interactivity, filtering, lightbox
+└── assets/              # Images, icons, screenshots
+└── preview.png      # Screenshot for README
+
+```
